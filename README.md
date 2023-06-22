@@ -10,7 +10,8 @@ Orginal SRC
 https://github.com/homersimpsons197/ProxyChanger
 == ==
 
-![image](https://github.com/noradlb1/Proxy-Switcher2-VB/assets/74623428/9166f4e2-f1f8-4194-b21c-a99e340d9ff4)
+![image](https://github.com/noradlb1/ProxyChanger-VB/assets/74623428/69cc8116-55cd-408d-b9be-1f0948ad1b4c)
+
 
 Orginal SRC
 
